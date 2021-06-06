@@ -1,0 +1,12 @@
+run
+runMain Distance
+exit
+runMain Factorial
+runMain Factorization.scala
+runMain Factorization
+exit
+sbtMain PrintFactorization
+runMain PrintFactorization
+runMain SimpleSearch
+runMain RegexSearch
+runMain PartialSumDFS
