@@ -1,0 +1,20 @@
+[0m[[0m[31merror[0m] [0m[0m/app/scala-gui/src/main/scala/Main.scala:3:8: object scene is not a member of package javafx.scene[0m
+[0m[[0m[31merror[0m] [0m[0mimport javafx.scene.scene[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/app/scala-gui/src/main/scala/Main.scala:6:8: object stage is not a member of package javafx.stage[0m
+[0m[[0m[31merror[0m] [0m[0mimport javafx.stage.stage[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/app/scala-gui/src/main/scala/Main.scala:13:35: not found: type Stage[0m
+[0m[[0m[31merror[0m] [0m[0m  override def start(primayStage: Stage): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/app/scala-gui/src/main/scala/Main.scala:26:21: not found: type Scene[0m
+[0m[[0m[31merror[0m] [0m[0m    val scene = new Scene(root, 300, 250)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/app/scala-gui/src/main/scala/Main.scala:3:21: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport javafx.scene.scene[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/app/scala-gui/src/main/scala/Main.scala:6:21: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport javafx.stage.stage[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

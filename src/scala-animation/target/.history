@@ -1,0 +1,3 @@
+assembly
+/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -jar target/scala-2.12/scala-animation-assembly-0.1.0-SNAPSHOT.jar --num=100
+exit

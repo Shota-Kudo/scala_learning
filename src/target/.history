@@ -10,3 +10,8 @@ runMain PrintFactorization
 runMain SimpleSearch
 runMain RegexSearch
 runMain PartialSumDFS
+runMain Partial
+runMain PartialSumDFS
+exit
+runMain PartialSumBitOp
+exit
